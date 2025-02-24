@@ -35,3 +35,18 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 ```bash
 git clone https://github.com/Aadhityan-Senthil/Applied-AI-Challenge.git
 cd 30-Day-Applied-AI-Challenge
+
+---
+
+🎯 Goals & Learning Outcomes
+🔹 Gain hands-on experience with AI/ML models
+🔹 Solve real-world problems using AI
+🔹 Improve coding & model evaluation skills
+🔹 Build a solid portfolio of AI projects
+
+📜 License
+This project is open-source under the MIT License. Feel free to use and contribute!
+
+🔗 Connect with Me
+🔹 LinkedIn: www.linkedin.com/in/aadhityan-senthil-kumar-483b5a25a
+🔹 Twitter: https://x.com/Aadhi_0212?t=ct46x9Z_AnEEwI-BqblkKg&s=09
