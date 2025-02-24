@@ -33,7 +33,7 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 
 1️⃣ **Clone the Repo**  
 ```bash
-git clone https://github.com/Aadhityan-Senthil/Applied-AI-Challenge.git
+git clone https://github.com/Aadhityan-Senthil/30-Day-Applied-AI-Challenge.git
 cd 30-Day-Applied-AI-Challenge
 ```
 2️⃣ **Navigate to a Specific Day's Folder**
