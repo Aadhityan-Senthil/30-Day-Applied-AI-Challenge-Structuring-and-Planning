@@ -18,10 +18,18 @@ The goal is to predict house prices based on selected features, optimizing the m
 ## 📂 **Project Structure**  
 ```
 Day-1-House-Price-Prediction/
-│── README.md  # Project documentation
-│── house_price_prediction.py  # Python script for the model
-│── dataset.csv  # Sample dataset (if needed)
+│── README.md  # Documentation
+│── house_price_prediction.ipynb  # Interactive version
+│── house_price_prediction.py  # Standalone script
+│── dataset.csv  # (if applicable)
 ```
+
+---
+
+## 📌 Why Both `.py` and `.ipynb`?
+This project includes:
+- **Jupyter Notebook (`.ipynb`)** → For exploration, step-by-step execution, and visualization.
+- **Python Script (`.py`)** → For efficiency and direct execution.
 
 ---
 
