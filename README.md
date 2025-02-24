@@ -46,11 +46,15 @@ python project.py
 ```
 ---
 
-## 🎯 Goals & Learning Outcomes
--🔹 Gain hands-on experience with AI/ML models
--🔹 Solve real-world problems using AI
--🔹 Improve coding & model evaluation skills
--🔹 Build a solid portfolio of AI projects
+## 🎯 Goals & Learning Outcomes  
+🔹 Gain hands-on experience with AI/ML models  
+
+🔹 Solve real-world problems using AI  
+
+🔹 Improve coding & model evaluation skills  
+
+🔹 Build a solid portfolio of AI projects  
+
 
 ---
 
@@ -61,4 +65,5 @@ This project is open-source under the MIT License. Feel free to use and contribu
 
 ## 🔗 Connect with Me
 -🔹 LinkedIn: www.linkedin.com/in/aadhityan-senthil-kumar-483b5a25a
+
 -🔹 Twitter: https://x.com/Aadhi_0212?t=ct46x9Z_AnEEwI-BqblkKg&s=09
