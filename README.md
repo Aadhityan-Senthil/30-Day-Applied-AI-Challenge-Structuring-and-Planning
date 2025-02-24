@@ -35,15 +35,14 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 ```bash
 git clone https://github.com/Aadhityan-Senthil/Applied-AI-Challenge.git
 cd 30-Day-Applied-AI-Challenge
-
-2️⃣ Navigate to a Specific Day's Folder
-
+```
+2️⃣ **Navigate to a Specific Day's Folder**
+```bash
 cd Day-1
-
-3️⃣ Run the Python Code
-
+```
+3️⃣ **Run the Python Code**
+```bash
 python project.py
-
 ```
 ---
 
