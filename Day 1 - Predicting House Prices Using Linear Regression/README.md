@@ -1,6 +1,5 @@
 ### **Day 1**  
 
-```md
 # 🏡 Day 1: House Price Prediction using Linear Regression  
 
 ## 📌 Overview  
