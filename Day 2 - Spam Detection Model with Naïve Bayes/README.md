@@ -26,7 +26,7 @@ Day-2-Spam-Detection/
 ```
 ---
 
-##📌 Why Both .py and .ipynb?  
+## 📌 Why Both .py and .ipynb?  
 This project includes:  
 
 📒 **Jupyter Notebook (.ipynb)** → For interactive exploration, visualization, and debugging.  
@@ -34,7 +34,7 @@ This project includes:
 
 ---
 
-##📊 Dataset  
+## 📊 Dataset  
 For this project, we use a dataset containing:  
 
 📌 **Features:** SMS/Email text messages  
@@ -42,7 +42,7 @@ For this project, we use a dataset containing:
 
 ---
 
-##🔧 Technologies Used  
+## 🔧 Technologies Used  
 🔹 Python  
 🔹 Pandas & NumPy (Data Processing)  
 🔹 Scikit-learn (Model Building & Evaluation)  
@@ -51,7 +51,7 @@ For this project, we use a dataset containing:
 
 ---
 
-##📜 How to Run the Project?  
+## 📜 How to Run the Project?  
 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Aadhityan-Senthil/30-Day-Applied-AI-Challenge.git  
@@ -67,7 +67,7 @@ python spam_detection.py
 ```
 ---
 
-##📈 Results & Analysis  
+## 📈 Results & Analysis  
 ✅ **Best Model Performance:**  
 📌 **Accuracy:** 96.5%  
 📌 **Precision:** 94.8%  
@@ -82,12 +82,12 @@ python spam_detection.py
 
 ---
 
-##📌 Next Steps  
+## 📌 Next Steps  
 🔹 Experiment with **different feature extraction techniques** like word embeddings.  
 🔹 Try **other classifiers** (Logistic Regression, SVM) for comparison.  
 🔹 Fine-tune **hyperparameters** to optimize model performance.  
 
 ---
 
-##⭐ Contribute & Connect!  
+## ⭐ Contribute & Connect!  
 📢 Follow my **30-day AI challenge** & share your feedback! 🚀🔥  
