@@ -16,7 +16,7 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 | Day | Project Title | Tech Stack | Status |
 |----|-----------------------------|-----------------|--------|
 | 1  | House Price Prediction (Linear Regression)| Scikit-Learn, Pandas | ✅ |
-| 2  | Coming Soon... | - | 🚧 |
+| 2  | Spam Detection (Naive Bayes) | Scikit-Learn, nltk | ✅ |
 | 3  | Coming Soon... | - | 🚧 |
 | 4  | Coming Soon... | - | 🚧 |
 | ... | ... | ... | ... |
