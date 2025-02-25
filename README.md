@@ -15,7 +15,7 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 
 | Day | Project Title | Tech Stack | Status |
 |----|-----------------------------|-----------------|--------|
-| 1  | [House Price Prediction (Linear Regression)](Day-1/) | Scikit-Learn, Pandas | ✅ |
+| 1  | [Predicting House Prices Using Linear Regression](Day-1/) | Scikit-Learn, Pandas | ✅ |
 | 2  | Coming Soon... | - | 🚧 |
 | 3  | Coming Soon... | - | 🚧 |
 | 4  | Coming Soon... | - | 🚧 |
