@@ -1,7 +1,5 @@
 # 📩 Day 2: Spam Detection Model using Naïve Bayes  
 
----
-
 ## 📌 Overview  
 In this project, we build a **Spam Detection Model** using the **Naïve Bayes** algorithm. The goal is to classify SMS/email messages as **Spam or Not Spam** (Ham) based on text features. We utilize **Natural Language Processing (NLP) techniques** to clean and preprocess text data before training the model.  
 
