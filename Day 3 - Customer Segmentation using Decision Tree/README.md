@@ -1,7 +1,3 @@
-Here's your **README.md** file for **Day 3: Customer Segmentation with Decision Trees & K-Means Clustering** 🚀  
-
----
-
 # 🎯 Day 3: Customer Segmentation using Decision Trees & K-Means  
 
 ## 📌 Overview  
@@ -94,8 +90,4 @@ python customer_segmentation.py
 ---
 
 ## ⭐ Contribute & Connect!  
-📢 Follow my **30-day AI challenge** & share your feedback! 🚀🔥  
-
----
-
-Let me know if you need any tweaks! 🚀
+📢 Follow my **30-day AI challenge** & share your feedback! 🚀🔥 
