@@ -18,7 +18,7 @@ Welcome to my **30-Day Applied AI Challenge**! Over the next 30 days, I will be 
 | 1  | House Price Prediction (Linear Regression)| Scikit-Learn, Pandas | ✅ |
 | 2  | Spam Detection (Naive Bayes) | Scikit-Learn, nltk | ✅ |
 | 3  | Customer Segmentation (Decision Tree) | Scikit-Learn, K-Means | ✅ |
-| 4  | Coming Soon... | - | 🚧 |
+| 4  | Loan Approval Predictor (Random Forest)| Scikit-learn, Pandas | ✅ |
 | ... | ... | ... | ... |
 | 30 | Final Project & Summary | All Covered Topics | 🚧 |
 
