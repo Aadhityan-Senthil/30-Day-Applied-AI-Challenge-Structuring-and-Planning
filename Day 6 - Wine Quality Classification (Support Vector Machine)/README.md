@@ -34,7 +34,7 @@ This project includes:
 ---
 
 ## 📊 Dataset  
-We use the **Wine Quality Dataset** from UCI Machine Learning Repository, which contains:  
+We use the **Wine Quality Dataset** from Kaggle, which contains:  
 
 📌 **Features:** Fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol  
 🎯 **Target Variable:** Wine Quality (Good/Bad)  
