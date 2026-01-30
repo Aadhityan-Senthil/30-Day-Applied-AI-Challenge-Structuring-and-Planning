@@ -1,7 +1,5 @@
 # Day 30: Final AI Project Summary, Learnings, and Reflection
 
-## 🎉 Congratulations on Completing the 30-Day AI Challenge!
-
 ## Overview
 This final project generates a comprehensive summary of all projects completed during the challenge, including statistics, visualizations, and key learnings.
 
