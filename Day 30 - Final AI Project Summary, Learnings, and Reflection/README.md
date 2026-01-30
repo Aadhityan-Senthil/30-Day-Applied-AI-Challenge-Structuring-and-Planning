@@ -50,11 +50,3 @@ python final_summary.py
 - Data Processing & Visualization
 - Model Evaluation & Optimization
 
-## What's Next?
-1. Deploy projects to the cloud
-2. Build a portfolio website
-3. Try Kaggle competitions
-4. Contribute to open-source
-5. Specialize in your favorite area
-
-## 🌟 You're Now an AI Practitioner! 🌟
